@@ -17,11 +17,14 @@ body {
 #linkedin-link{
     color: blue;
     text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
 }
 
 #github-link{
     color: blue;
     text-decoration: none;
+    display: block;
 }
 
 /* Color Change on Hover */
